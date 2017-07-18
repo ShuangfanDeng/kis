@@ -1,0 +1,159 @@
+OC(=O)c1ccccc1Oc2ncc(Cl)cc2NS(=O)(=O)c3ccc(Cl)c(Cl)c3 CHEMBL1171008
+OC(=O)c1ccccc1Oc2ncccc2NS(=O)(=O)c3ccc(Cl)c(Cl)c3 CHEMBL1170801 34.44
+||||||
+CC(C)[C@@]1(CC[C@H](C1)N[C@@H]2CCc3cc(Br)ccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417235
+CC(C)[C@@]1(CC[C@H](C1)NC2CCc3ccccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417111 78.9
+||||||
+OC(=O)c1ccccc1Oc2ccc(Cl)cc2NS(=O)(=O)c3ccc(Cl)c(Cl)c3 CHEMBL1171786
+OC(=O)c1ccccc1Oc2ccc(Cl)cc2NS(=O)(=O)c3cccc(Cl)c3 CHEMBL1171614 34.45
+||||||
+OC(=O)c1ccccc1Oc2ccc(Cl)cc2NS(=O)(=O)c3ccc(Cl)c(Cl)c3 CHEMBL1171786
+OC(=O)c1ccccc1Oc2ccc(Cl)cc2NS(=O)(=O)c3ccc(Cl)cc3 CHEMBL1171760 34.45
+||||||
+CO[C@@H]1COCC[C@@H]1N[C@@H]2C[C@H]3CCC[C@]3(C2)C(=O)N4C[C@@H]5C[C@H]4CN5c6cc(ccc6F)C(F)(F)F CHEMBL3650359
+CO[C@@H]1COCC[C@@H]1N[C@@H]2C[C@H]3CCC[C@]3(C2)C(=O)N4C[C@@H]5C[C@H]4CN5c6cccc(c6)C(F)(F)F CHEMBL3650363 17.9900000000001
+||||||
+OC(=O)c1c(F)cccc1Oc2ccc(cc2NS(=O)(=O)c3ccc(Cl)cc3)C(F)(F)F CHEMBL1170391
+OC(=O)c1ccccc1Oc2ccc(cc2NS(=O)(=O)c3ccc(Cl)cc3)C(F)(F)F CHEMBL1171586 17.99
+||||||
+[O-][N+](=O)c1ccc2NC(=O)CN=C(c3ccccc3Cl)c2c1 CHEMBL452
+[O-][N+](=O)c1ccc2NC(=O)CN=C(c3ccccc3)c2c1 CHEMBL13209 34.44
+||||||
+CN(C)CCCN1c2ccccc2Sc3ccc(Cl)cc13 CHEMBL71
+CN(C)CCCN1c2ccccc2Sc3ccccc13 CHEMBL564 34.44
+||||||
+CC1(C)O[C@@H]2C[C@H]3[C@@H]4C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@@]2(O1)C(=O)CO CHEMBL989
+CC1(C)O[C@@H]2C[C@H]3[C@@H]4C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@H]4[C@@H](O)C[C@]3(C)[C@@]2(O1)C(=O)CO CHEMBL1512 17.99
+||||||
+CC1(C)O[C@@H]2C[C@H]3[C@@H]4C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@@]2(O1)C(=O)CO CHEMBL989
+CC1(C)O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@@]2(O1)C(=O)CO CHEMBL1504 17.99
+||||||
+CC(C)[C@@]1(CC[C@H](C1)NC2CCc3ccc(Cl)cc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417123
+CC(C)[C@@]1(CC[C@H](C1)NC2CCc3ccccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417111 34.44
+||||||
+OC(=O)c1ccccc1Oc2ccc(F)cc2NS(=O)(=O)c3ccc(Cl)cc3 CHEMBL1169653
+OC(=O)c1ccccc1Oc2ccccc2NS(=O)(=O)c3ccc(Cl)cc3 CHEMBL1171758 17.99
+||||||
+OC(=O)c1ccccc1Oc2c(F)cc(cc2NS(=O)(=O)c3ccc(Cl)cc3)C(F)(F)F CHEMBL1171006
+OC(=O)c1ccccc1Oc2ccc(cc2NS(=O)(=O)c3ccc(Cl)cc3)C(F)(F)F CHEMBL1171586 17.99
+||||||
+Clc1ccc(Cn2ccnn2)c(NS(=O)(=O)c3cccc(Cl)c3)c1 CHEMBL2207088
+Clc1ccc(Cn2ccnn2)c(NS(=O)(=O)c3ccccc3)c1 CHEMBL2207086 34.44
+||||||
+Ic1ccc(\C=C\C(=O)NCCCCCN2CCC(CC2)c3c[nH]c4ccccc34)cc1 CHEMBL299322
+O=C(NCCCCCN1CCC(CC1)c2c[nH]c3ccccc23)\C=C\c4ccccc4 CHEMBL53402 125.9
+||||||
+Clc1ccc(\C=C\C(=O)NCCCCCN2CCC(CC2)c3c[nH]c4ccccc34)cc1 CHEMBL299855
+O=C(NCCCCCN1CCC(CC1)c2c[nH]c3ccccc23)\C=C\c4ccccc4 CHEMBL53402 34.45
+||||||
+Clc1cccc(\C=C\C(=O)NCCCCCN2CCC(CC2)c3c[nH]c4ccccc34)c1 CHEMBL53476
+O=C(NCCCCCN1CCC(CC1)c2c[nH]c3ccccc23)\C=C\c4ccccc4 CHEMBL53402 34.45
+||||||
+CC(C)[C@@]1(CC[C@H](C1)NC2CCc3cc(Cl)ccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417117
+CC(C)[C@@]1(CC[C@H](C1)NC2CCc3ccccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417111 34.44
+||||||
+OC(=O)c1c(F)cccc1Oc2ncc(Cl)cc2NS(=O)(=O)c3ccc(Cl)c(Cl)c3 CHEMBL1170827
+OC(=O)c1ccccc1Oc2ncc(Cl)cc2NS(=O)(=O)c3ccc(Cl)c(Cl)c3 CHEMBL1171008 17.99
+||||||
+CC(C)[C@@]1(CC[C@H](C1)NC2CC(C)c3cc(Br)ccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417231
+CC(C)[C@@]1(CC[C@H](C1)NC2CC(C)c3ccccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417230 78.89
+||||||
+CC(C)[C@@]1(CC[C@H](C1)N[C@H]2C[C@H](C)c3cc(Br)ccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417238
+CC(C)[C@@]1(CC[C@H](C1)NC2CC(C)c3ccccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417230 78.89
+||||||
+OC(=O)c1ccccc1Oc2ccc(Cl)cc2NS(=O)(=O)c3cccc(Cl)c3 CHEMBL1171614
+OC(=O)c1ccccc1Oc2ccc(Cl)cc2NS(=O)(=O)c3ccccc3 CHEMBL1169824 34.44
+||||||
+Clc1ccc(cc1Cl)S(=O)(=O)Nc2cc(Cl)c(Cl)cc2Cn3ccnn3 CHEMBL2207098
+Clc1ccc(Cn2ccnn2)c(NS(=O)(=O)c3ccc(Cl)c(Cl)c3)c1 CHEMBL2207081 34.44
+||||||
+OC(=O)c1ccccc1Oc2ccc(Cl)cc2NS(=O)(=O)c3ccc(Cl)cc3 CHEMBL1171760
+OC(=O)c1ccccc1Oc2ccc(Cl)cc2NS(=O)(=O)c3ccccc3 CHEMBL1169824 34.44
+||||||
+OC(=O)c1ccccc1Oc2ccc(Cl)cc2NS(=O)(=O)c3ccc(Cl)cc3 CHEMBL1171760
+OC(=O)c1ccccc1Oc2ccccc2NS(=O)(=O)c3ccc(Cl)cc3 CHEMBL1171758 34.44
+||||||
+Clc1ccc(Cn2ccnn2)c(NS(=O)(=O)c3cc(Cl)c(Cl)s3)c1 CHEMBL2207094
+Clc1ccc(Cn2ccnn2)c(NS(=O)(=O)c3ccc(Cl)s3)c1 CHEMBL2207093 34.45
+||||||
+CO[C@@H]1COCC[C@@H]1N[C@@H]2C[C@H]3CCC[C@]3(C2)C(=O)N4C[C@@H]5C[C@H]4CN5c6ccc(F)c(c6)C(F)(F)F CHEMBL3650360
+CO[C@@H]1COCC[C@@H]1N[C@@H]2C[C@H]3CCC[C@]3(C2)C(=O)N4C[C@@H]5C[C@H]4CN5c6cccc(c6)C(F)(F)F CHEMBL3650363 17.9900000000001
+||||||
+Brc1ccc(\C=C\C(=O)NCCCCCN2CCC(CC2)c3c[nH]c4ccccc34)cc1 CHEMBL297033
+O=C(NCCCCCN1CCC(CC1)c2c[nH]c3ccccc23)\C=C\c4ccccc4 CHEMBL53402 78.9
+||||||
+Clc1ccccc1\C=C\C(=O)NCCCCCN2CCC(CC2)c3c[nH]c4ccccc34 CHEMBL53930
+O=C(NCCCCCN1CCC(CC1)c2c[nH]c3ccccc23)\C=C\c4ccccc4 CHEMBL53402 34.45
+||||||
+CC(C)[C@@]1(CC[C@H](C1)NC2CCc3cc(Br)ccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417118
+CC(C)[C@@]1(CC[C@H](C1)NC2CCc3ccccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417111 78.9
+||||||
+CC(C)[C@@]1(CC[C@H](C1)NC2CCc3cc(I)ccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417119
+CC(C)[C@@]1(CC[C@H](C1)NC2CCc3ccccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417111 125.9
+||||||
+Clc1ccc(Cn2ccnn2)c(NS(=O)(=O)c3ccc(Cl)c(Cl)c3)c1 CHEMBL2207081
+Clc1ccc(Cn2ccnn2)c(NS(=O)(=O)c3cccc(Cl)c3)c1 CHEMBL2207088 34.45
+||||||
+Clc1ccc(Cn2ccnn2)c(NS(=O)(=O)c3ccc(Cl)c(Cl)c3)c1 CHEMBL2207081
+Clc1ccc(cc1)S(=O)(=O)Nc2cc(Cl)ccc2Cn3ccnn3 CHEMBL2207087 34.45
+||||||
+Fc1cccc(c1)S(=O)(=O)Nc2cc(Cl)ccc2Cn3ccnn3 CHEMBL2207090
+Clc1ccc(Cn2ccnn2)c(NS(=O)(=O)c3ccccc3)c1 CHEMBL2207086 17.99
+||||||
+OC(=O)c1ccccc1Oc2cccc(F)c2NS(=O)(=O)c3ccc(Cl)cc3 CHEMBL1171208
+OC(=O)c1ccccc1Oc2ccccc2NS(=O)(=O)c3ccc(Cl)cc3 CHEMBL1171758 17.99
+||||||
+Clc1ccc(s1)S(=O)(=O)Nc2cc(Cl)c(Cl)cc2Cn3ccnn3 CHEMBL2207100
+Clc1ccc(Cn2ccnn2)c(NS(=O)(=O)c3ccc(Cl)s3)c1 CHEMBL2207093 34.45
+||||||
+CO[C@@H]1COCC[C@@H]1N[C@@H]2C[C@H]3CCC[C@]3(C2)C(=O)N4C[C@@H]5C[C@H]4CN5c6ccc(Cl)c(c6)C(F)(F)F CHEMBL3650391
+CO[C@@H]1COCC[C@@H]1N[C@@H]2C[C@H]3CCC[C@]3(C2)C(=O)N4C[C@@H]5C[C@H]4CN5c6cccc(c6)C(F)(F)F CHEMBL3650363 34.44
+||||||
+Clc1ccc(cc1)S(=O)(=O)Nc2cc(Cl)ccc2Cn3ccnn3 CHEMBL2207087
+Clc1ccc(Cn2ccnn2)c(NS(=O)(=O)c3ccccc3)c1 CHEMBL2207086 34.44
+||||||
+Clc1ccc(\C=C\C(=O)NCCCCCN2CCC(CC2)c3c[nH]c4ccccc34)cc1Cl CHEMBL299153
+Clc1ccc(\C=C\C(=O)NCCCCCN2CCC(CC2)c3c[nH]c4ccccc34)cc1 CHEMBL299855 34.44
+||||||
+Clc1ccc(\C=C\C(=O)NCCCCCN2CCC(CC2)c3c[nH]c4ccccc34)cc1Cl CHEMBL299153
+Clc1cccc(\C=C\C(=O)NCCCCCN2CCC(CC2)c3c[nH]c4ccccc34)c1 CHEMBL53476 34.44
+||||||
+CC(C)[C@@]1(CC[C@H](C1)N[C@H]2C[C@@H](C)c3cc(Br)ccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417237
+CC(C)[C@@]1(CC[C@H](C1)NC2CC(C)c3ccccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417230 78.89
+||||||
+CC(C)[C@@]1(CC[C@H](C1)NC2CCc3cc(F)ccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417116
+CC(C)[C@@]1(CC[C@H](C1)NC2CCc3ccccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417111 17.99
+||||||
+Clc1ccc(COC(Cn2ccnc2)c3ccc(Cl)cc3Cl)c(Cl)c1 CHEMBL91
+Clc1ccc(COC(Cn2ccnc2)c3ccc(Cl)cc3Cl)cc1 CHEMBL808 34.45
+||||||
+COc1cc(c(F)cn1)c2ccc3C(CCc3c2)N[C@@H]4CC[C@](C4)(C(C)C)C(=O)N5CCc6ccc(cc6C5)C(F)(F)F CHEMBL3417229
+COc1cc(ccn1)c2ccc3C(CCc3c2)N[C@@H]4CC[C@](C4)(C(C)C)C(=O)N5CCc6ccc(cc6C5)C(F)(F)F CHEMBL3417228 17.99
+||||||
+FC(F)(F)c1cccc(c1)S(=O)(=O)Nc2cc(Cl)c(Cl)cc2Cn3ccnn3 CHEMBL2207101
+FC(F)(F)c1cccc(c1)S(=O)(=O)Nc2cc(Cl)ccc2Cn3ccnn3 CHEMBL2207091 34.44
+||||||
+CC(C)[C@@]1(CC[C@H](C1)N[C@H]2CCc3cc(Br)ccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417236
+CC(C)[C@@]1(CC[C@H](C1)NC2CCc3ccccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417111 78.9
+||||||
+CC(C)[C@@]1(CC[C@H](C1)N[C@@H]2C[C@@H](C)c3cc(Br)ccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417239
+CC(C)[C@@]1(CC[C@H](C1)NC2CC(C)c3ccccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417230 78.89
+||||||
+CO[C@@H]1COCC[C@@H]1N[C@@H]2C[C@H]3CCC[C@]3(C2)C(=O)N4C[C@@H]5C[C@H]4CN5c6cc(F)cc(c6)C(F)(F)F CHEMBL3650370
+CO[C@@H]1COCC[C@@H]1N[C@@H]2C[C@H]3CCC[C@]3(C2)C(=O)N4C[C@@H]5C[C@H]4CN5c6cccc(c6)C(F)(F)F CHEMBL3650363 17.9900000000001
+||||||
+OC(=O)c1ccccc1Oc2c(Cl)cccc2NS(=O)(=O)c3ccc(Cl)cc3 CHEMBL1171938
+OC(=O)c1ccccc1Oc2ccccc2NS(=O)(=O)c3ccc(Cl)cc3 CHEMBL1171758 34.44
+||||||
+Clc1cncc(Oc2ncc(Cl)cc2NS(=O)(=O)c3ccc(Cl)c(Cl)c3)c1 CHEMBL1169994
+Clc1cnc(Oc2cccnc2)c(NS(=O)(=O)c3ccc(Cl)c(Cl)c3)c1 CHEMBL1170722 34.45
+||||||
+CC(C)[C@@]1(CC[C@H](C1)N[C@@H]2C[C@H](C)c3cc(Br)ccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417240
+CC(C)[C@@]1(CC[C@H](C1)NC2CC(C)c3ccccc23)C(=O)N4CCc5ccc(cc5C4)C(F)(F)F CHEMBL3417230 78.89
+||||||
+CC(C)C[C@@H]1N2C(=O)[C@](NC(=O)[C@H]3CN(C)[C@@H]4Cc5c(Br)[nH]c6cccc(C4=C3)c56)(O[C@@]2(O)[C@@H]7CCCN7C1=O)C(C)C CHEMBL493
+CC(C)C[C@@H]1N2C(=O)[C@](NC(=O)[C@H]3CN(C)[C@@H]4Cc5c[nH]c6cccc(C4=C3)c56)(O[C@@]2(O)[C@@H]7CCCN7C1=O)C(C)C CHEMBL1403281 78.89
+||||||
+CN(C)[C@H]1[C@@H]2C[C@H]3C(=C(O)[C@]2(O)C(=O)C(=C1O)C(=O)N)C(=O)c4c(O)ccc(Cl)c4[C@@]3(C)O CHEMBL404520
+CN(C)[C@H]1[C@@H]2C[C@H]3C(=C(O)[C@]2(O)C(=O)C(=C1O)C(=O)N)C(=O)c4c(O)cccc4[C@@]3(C)O CHEMBL1440 34.45
+||||||
